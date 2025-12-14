@@ -2,8 +2,8 @@ package mygit;
 
 public class YourClass {
 
-	public YourClass(String toWhom) {
+	public void sayHello(String toWhom) {
 		System.out.println("Hello! " + toWhom);
 	}
-
 }
+
