@@ -9,8 +9,8 @@ public class MyClass {
 		System.out.println("This is the 2nd version");
 		System.out.println("");
 		
-//		YourClass your = new YourClass();
-//		your.sayHello("Everyone");
+		YourClass your = new YourClass();
+		your.sayHello("Everyone");
 	}
 
 }
