@@ -9,6 +9,8 @@ public class MyClass {
 		System.out.println("This is the 2nd version");
 		System.out.println("");
 		System.out.println("MyClass changed in master branch")
+		YourClass your = new YourClass();
+		your.sayHello("Everyone");
 	}
 
 }
